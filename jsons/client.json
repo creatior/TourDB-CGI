@@ -1,0 +1,50 @@
+[
+    {
+        "client_id": 1,
+        "first_name": "Иван",
+        "surname": "Иванов",
+        "last_name": "Иванович",
+        "email": "ivan@example.com",
+        "phone_number": "89654447752"
+    },
+    {
+        "client_id": 2,
+        "first_name": "Анна",
+        "surname": "Петрова",
+        "last_name": "Денисовна",
+        "email": "anna@example.com",
+        "phone_number": "89882318765"
+    },
+    {
+        "client_id": 3,
+        "first_name": "Петр",
+        "surname": "Сидоров",
+        "last_name": "Ильич",
+        "email": "petr@example.com",
+        "phone_number": "86544521485"
+    },
+    {
+        "client_id": 4,
+        "first_name": "Мария",
+        "surname": "Кузнецова",
+        "last_name": "Борисовна",
+        "email": "maria@example.com",
+        "phone_number": "88526459635"
+    },
+    {
+        "client_id": 5,
+        "first_name": "Артём",
+        "surname": "Воробьев",
+        "last_name": "Олегович",
+        "email": "vart@mail.ru",
+        "phone_number": "89382115476"
+    },
+    {
+        "client_id": 6,
+        "first_name": "Андрей",
+        "surname": "Васильев",
+        "last_name": "Геннадьевич",
+        "email": "vasyandr@yandex.ru",
+        "phone_number": "89548887203"
+    }
+]

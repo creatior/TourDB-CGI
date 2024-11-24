@@ -1,0 +1,38 @@
+[
+    {
+        "booking_id": 1,
+        "client_id": 1,
+        "tour_id": 1,
+        "booking_date": "2023-10-01"
+    },
+    {
+        "booking_id": 2,
+        "client_id": 2,
+        "tour_id": 2,
+        "booking_date": "2023-10-02"
+    },
+    {
+        "booking_id": 3,
+        "client_id": 3,
+        "tour_id": 3,
+        "booking_date": "2023-10-03"
+    },
+    {
+        "booking_id": 4,
+        "client_id": 4,
+        "tour_id": 4,
+        "booking_date": "2023-10-04"
+    },
+    {
+        "booking_id": 5,
+        "client_id": 1,
+        "tour_id": 1,
+        "booking_date": "2024-11-22"
+    },
+    {
+        "booking_id": 6,
+        "client_id": 2,
+        "tour_id": 2,
+        "booking_date": "2024-11-13"
+    }
+]

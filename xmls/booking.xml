@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<booking>
+  <row>
+    <booking_id>1</booking_id>
+    <client_id>1</client_id>
+    <tour_id>1</tour_id>
+    <booking_date>2023-10-01</booking_date>
+  </row>
+  <row>
+    <booking_id>2</booking_id>
+    <client_id>2</client_id>
+    <tour_id>2</tour_id>
+    <booking_date>2023-10-02</booking_date>
+  </row>
+  <row>
+    <booking_id>3</booking_id>
+    <client_id>3</client_id>
+    <tour_id>3</tour_id>
+    <booking_date>2023-10-03</booking_date>
+  </row>
+  <row>
+    <booking_id>4</booking_id>
+    <client_id>4</client_id>
+    <tour_id>4</tour_id>
+    <booking_date>2023-10-04</booking_date>
+  </row>
+  <row>
+    <booking_id>5</booking_id>
+    <client_id>1</client_id>
+    <tour_id>1</tour_id>
+    <booking_date>2024-11-22</booking_date>
+  </row>
+  <row>
+    <booking_id>6</booking_id>
+    <client_id>2</client_id>
+    <tour_id>2</tour_id>
+    <booking_date>2024-11-13</booking_date>
+  </row>
+</booking>

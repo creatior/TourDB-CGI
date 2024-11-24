@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<tour>
+  <row>
+    <tour_id>1</tour_id>
+    <tour_name>Городская экскурсия</tour_name>
+    <description>Экскурсия по историческим местам города</description>
+    <duration>3</duration>
+    <price>50.0</price>
+  </row>
+  <row>
+    <tour_id>2</tour_id>
+    <tour_name>Природная экскурсия</tour_name>
+    <description>Экскурсия по национальному парку</description>
+    <duration>5</duration>
+    <price>75.0</price>
+  </row>
+  <row>
+    <tour_id>3</tour_id>
+    <tour_name>Музейная экскурсия</tour_name>
+    <description>Экскурсия по лучшим музеям города</description>
+    <duration>4</duration>
+    <price>60.0</price>
+  </row>
+  <row>
+    <tour_id>4</tour_id>
+    <tour_name>Гастрономическая экскурсия</tour_name>
+    <description>Экскурсия по лучшим ресторанам и кафе</description>
+    <duration>3</duration>
+    <price>45.0</price>
+  </row>
+  <row>
+    <tour_id>5</tour_id>
+    <tour_name>Поездка в Казахстан</tour_name>
+    <description>Счастливого пути!!!</description>
+    <duration>15</duration>
+    <price>99.9</price>
+  </row>
+</tour>
